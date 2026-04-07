@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Rafael+%22Lach%22+Lachica;AI+Engineer+%7C+NLP+Researcher+%7C+Full-Stack+Dev;Building+Lightweight+%26+Scalable+AI+Systems;Turning+Ideas+Into+Production-Ready+AI" />
+# Rafael "Lach" Lachica
 
-<br/>
-
-<h1>Rafael "Lach" Lachica</h1>
+### AI Engineer • NLP Researcher • Full-Stack Developer
 
 <p>
-  <strong>AI Engineer • NLP Researcher • Full-Stack Developer</strong><br/>
-  <sub>Building lightweight, scalable, and production-ready intelligent systems for real-world impact</sub>
+  <em>Building lightweight, scalable, and production-ready intelligent systems for real-world impact.</em>
 </p>
 
 <br/>
@@ -199,24 +195,20 @@ Strong focus on **clear, diplomatic, and solution-oriented communication**.
 ## Current Focus
 
 <ul>
-  <li>🔹 Lightweight LLMs (sub-1B parameter models for edge deployment)</li>
-  <li>🔹 Advanced RAG pipelines with hybrid retrieval strategies</li>
-  <li>🔹 Agentic AI systems with tool-use and multi-step reasoning</li>
-  <li>🔹 AI for SMEs, Legal Technology, and Language Preservation</li>
+  <li>Lightweight LLMs (sub-1B parameter models for edge deployment)</li>
+  <li>Advanced RAG pipelines with hybrid retrieval strategies</li>
+  <li>Agentic AI systems with tool-use and multi-step reasoning</li>
+  <li>AI for SMEs, Legal Technology, and Language Preservation</li>
 </ul>
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lachicus/Lachicus/output/github-snake-dark.svg" width="100%" />
-
-<br/><br/>
-
-<p><strong>✨ "Building AI that is not just powerful — but practical." ✨</strong></p>
+### "Building AI that is not just powerful — but practical."
 
 <br/>
 
-<sub>⚡ Last updated: April 2026</sub>
+<sub>Last updated: April 2026</sub>
 
 </div>
