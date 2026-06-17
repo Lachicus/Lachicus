@@ -51,12 +51,6 @@ Focused on building **efficient AI systems** using **lightweight transformer mod
 
 <img src="https://streak-stats.demolab.com?user=Lachicus&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lachicus&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B" width="95%"/>
-
-<br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Lachicus&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="90%"/>
 
 </div>
