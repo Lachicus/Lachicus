@@ -3,6 +3,7 @@
 <a href="https://lachicarfl.vercel.app" target="_blank">
   <img src="LACH-BACKGROUND.png" alt="Cover Banner" width="100%" />
 </a>
+
 # Rafael "Lach" Lachica
 ### AI Engineer • NLP Researcher • Full-Stack Developer
 
