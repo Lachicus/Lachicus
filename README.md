@@ -68,6 +68,8 @@ Focused on building **efficient AI systems** using **lightweight transformer mod
   <li>Quantization strategies for low-resource and edge deployment</li>
 </ul>
 
+> **Key Insight:** T5 achieved the highest evaluation scores, while **Qwen 2.5** was selected for deployment due to superior conversational behavior — prioritizing practical usability over benchmarks.
+
 **LARF Legal Adaptive Routing Framework for Migrant Workers**
 
 <ul>
@@ -77,7 +79,7 @@ Focused on building **efficient AI systems** using **lightweight transformer mod
   <li>Composed of Comparative Study, Topic Modeling, & AI Engineering</li>
 </ul>
 
-> **Key Insight:** T5 achieved the highest evaluation scores, while **Qwen 2.5** was selected for deployment due to superior conversational behavior — prioritizing practical usability over benchmarks.
+> **Key Insight:** Evaluated and Validated by Legal Experts from Department of Migrant Workers CAR, and Saint Louis University - School of Law Faculty.
 
 ---
 
