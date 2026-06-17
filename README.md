@@ -33,7 +33,7 @@
 
 ## About
 
-Computer Science student specializing in **Artificial Intelligence**, **Natural Language Processing**, and **Full-Stack Development**.
+Computer Science Graduate specializing in **Artificial Intelligence**, **Natural Language Processing**, and **Full-Stack Development**.
 
 Focused on building **efficient AI systems** using **lightweight transformer models**, **Retrieval-Augmented Generation (RAG)**, and **agentic pipelines** — solving real-world problems for SMEs, legal systems, and language technologies.
 
