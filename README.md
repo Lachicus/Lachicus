@@ -1,7 +1,10 @@
 <div align="center">
 
-# Rafael "Lach" Lachica
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="LACH-BACKGROUND.png" alt="Cover Banner" width="100%" />
+</a>
 
+# Rafael "Lach" Lachica
 ### AI Engineer • NLP Researcher • Full-Stack Developer
 
 <p>
