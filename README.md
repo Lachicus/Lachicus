@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://your-portfolio-link.com">
+<a href="lachicarfl.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
 </a>
 <a href="mailto:lachicarfl05@gmail.com">
@@ -66,6 +66,15 @@ Focused on building **efficient AI systems** using **lightweight transformer mod
   <li>57,000+ structured training samples curated for domain-specific fine-tuning</li>
   <li>RAG-enhanced chatbot system for customer-facing event management</li>
   <li>Quantization strategies for low-resource and edge deployment</li>
+</ul>
+
+**LARF Legal Adaptive Routing Framework for Migrant Workers**
+
+<ul>
+  <li>5 Stage Agentic Pipeline for intelligent responses</li>
+  <li>Hybrid Legal Information Retrieval System</li>
+  <li>Intelligent Query Rerouting Classification</li>
+  <li>Composed of Comparative Study, Topic Modeling, & AI Engineering</li>
 </ul>
 
 > **Key Insight:** T5 achieved the highest evaluation scores, while **Qwen 2.5** was selected for deployment due to superior conversational behavior — prioritizing practical usability over benchmarks.
@@ -203,6 +212,6 @@ Strong focus on **clear, diplomatic, and solution-oriented communication**.
 
 <br/>
 
-<sub>Last updated: April 2026</sub>
+<sub>Greetings From Rafael Lachica!</sub>
 
 </div>
