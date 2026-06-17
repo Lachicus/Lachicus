@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="lachicarfl.vercel.app">
+<a href="https://lachicarfl.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
 </a>
 <a href="mailto:lachicarfl05@gmail.com">
