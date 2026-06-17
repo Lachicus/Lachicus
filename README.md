@@ -16,13 +16,10 @@
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
 </a>
-<a href="https://github.com/Lachicus">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-</a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:lachicarfl05@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/your-link">
+<a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/rafael-lachica-37241720b/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
