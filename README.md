@@ -5,7 +5,7 @@
 </a>
 
 # Rafael "Lach" Lachica
-### AI Engineer • NLP Researcher • Full-Stack Developer
+### AI/NLP Researcher • Applied AI Developer
 
 <p>
   <em>Building lightweight, scalable, and production-ready intelligent systems for real-world impact.</em>
