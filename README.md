@@ -164,10 +164,10 @@ Focused on building **efficient AI systems** using **lightweight transformer mod
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **iWallet** | Smart budgeting PWA with expense tracking and financial insights | [View →](https://your-link.com) |
-| **IMEMO** | Secure cloud-based notepad with encryption and sync | [View →](https://your-link.com) |
-| **LARF** | Legal AI Routing Framework — intelligent case classification and routing | [View →](https://your-link.com) |
-| **Ibaloi NLP Hub** | Language preservation system for the Ibaloi indigenous language | [View →](https://your-link.com) |
+| **iWallet** | Smart budgeting PWA with expense tracking and financial insights | [View →](iwallet-v1.vercel.app) |
+| **IMEMO** | Secure cloud-based notepad with encryption and sync | [View →](https://imemo.vercel.app) |
+| **LARF** | Legal AI Routing Framework — intelligent case classification and routing | [View →](https://github.com/SLU-404FoundUs/LARF-Legal-Adaptive-Routing-Framework) |
+| **Ibaloi NLP Hub** | Language preservation system for the Ibaloi indigenous language | [View →](https://ibaloinlp.vercel.app/) |
 
 ---
 
